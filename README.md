@@ -8,4 +8,4 @@
 
 # code preview
 
-![alt text] (https://github.com/Richardbarbosasilva/Collect-hardware-info\screenshot_7.png)
+![alt text] (https://github.com/Richardbarbosasilva/Collect-hardware-info/screenshot_7.png)
