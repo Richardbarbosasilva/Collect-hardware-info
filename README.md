@@ -13,3 +13,7 @@
 # Memory
 
 ![alt text](https://github.com/Richardbarbosasilva/Collect-hardware-info/blob/main/Screenshot_8.png)
+
+# Csv file generated with the infos to later be processed by the influxdb database
+
+![alt text](https://github.com/Richardbarbosasilva/Collect-hardware-info/blob/main/Screenshot_9.png)
