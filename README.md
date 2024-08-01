@@ -1,3 +1,7 @@
 # Collect-hardware-info
 
-O seguinte projeto terá por função identificar e coletar todos os dados principais de hardware de cada dispositivo da empresa, como informações de memória, espaço em disco disponível, etc, e futuramente integrar essa coleta ao influxdb e grafana de modo a criar dashboards dinâmicos interativos, assim ajudaria o setor de T.I a ter uma noção completa do estado físico dos dispositivos do grupo, além de auxiliar na tomada de decisão e definir uma rotina de manutenção e limpeza aos pcs que apresentam uso de hardware acima do comum
+* The following project aims to identify and collect all the main hardware data from each device in the company, such as memory information, available disk space, etc., and in the future integrate this collection with InfluxDB and Grafana to create dynamic interactive dashboards. This would help the IT department have a complete understanding of the physical state of the group's devices, as well as assist in decision-making and define a maintenance and cleaning routine for PCs that exhibit above-average hardware usage
+
+* It will run as a schedule task in the GPMC as a logon script
+
+* After Collecting the data sucessfuly, the data should be sent to a influxdb instance, there it can be used to feed and display some cool dashboards using influxdb buckets, or yet be integrated with grafana as well.
