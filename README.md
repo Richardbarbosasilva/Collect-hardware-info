@@ -5,3 +5,7 @@
 * It will run as a schedule task in the GPMC as a logon script
 
 * After Collecting the data sucessfuly, the data should be sent to a influxdb instance, there it can be used to feed and display some cool dashboards using influxdb buckets, or yet be integrated with grafana as well.
+
+# code preview
+
+![alt text] (https://github.com/Richardbarbosasilva/Collect-hardware-info\screenshot_7.png)
