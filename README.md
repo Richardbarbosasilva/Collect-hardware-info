@@ -9,3 +9,7 @@
 # code preview
 
 ![alt text](https://github.com/Richardbarbosasilva/Collect-hardware-info/blob/main/Screenshot_7.png)
+
+# Memory
+
+![alt text](https://github.com/Richardbarbosasilva/Collect-hardware-info/blob/main/Screenshot_8.png)
